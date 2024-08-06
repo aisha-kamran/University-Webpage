@@ -9,6 +9,8 @@ Student Dashboard: Display student profiles, courses, and grades.
 Faculty Dashboard: Show faculty profiles and assigned courses.
 Course Listings: Present detailed information about available courses.
 Responsive Design: Optimized for various devices, including desktops, tablets, and smartphones.
+
+
 **Technologies Used**:
 HTML: For structuring web pages.
 CSS: For styling and layout.
