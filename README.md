@@ -13,4 +13,5 @@ Responsive Design: Optimized for various devices, including desktops, tablets, a
 
 **Technologies Used**:
 HTML: For structuring web pages.
+
 CSS: For styling and layout.
